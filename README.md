@@ -1,2 +1,2 @@
 # CSC105-Bonus
-Website
+Bonus Homework Assignment: Design your first personal webpage
